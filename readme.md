@@ -1,4 +1,4 @@
-# Generate Programming Language Checklists
+# General Programming Language Checklists
 
 1. import / include
 2. variable
@@ -55,7 +55,7 @@
     7. struct
     8. package
 11. IO (read, write)
-12. sorting
+12. sorting (optional)
     1. bubble
     2. quick
     3. merge
